@@ -1,0 +1,7 @@
+main() {
+    var x: int = 5;
+    var y: int = 3;
+    var z: int;
+    z = x * y;
+    print(z);
+}

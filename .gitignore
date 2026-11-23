@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.s
+saida.s
+programa.exe
+lex.yy.c
+.vscode/
